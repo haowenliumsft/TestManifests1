@@ -31,7 +31,7 @@
           <KBLink>https://learn.microsoft.com/en-us/azure-stack/hci/</KBLink>
           <PackageHash>7D091B654B92FFBDA1AA8CBEF62032FA427AB3F0CC5C1D02A9C49C25C37D1324</PackageHash>
         </UpdateInfo>
-        <File Name="ServicesUpdate.99.9999.9.11.zip" Uri="https://github.com/haowenliumsft/TestManifests1/raw/main/ASZServices_99.9999.9.11.zip" />
+        <File Name="ServicesUpdate.99.9999.9.11.zip" Uri="https://github.com/haowenliumsft/TestManifests1/raw/main/ServicesUpdate.99.9999.9.11.zip" />
       </Update>
     </ServicesUpdates>
   </PackageMetadata>
